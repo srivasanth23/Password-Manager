@@ -1,0 +1,55 @@
+.list-container {
+  border-radius: 10px;
+  border: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  margin: 10px;
+  height: 100px;
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 10px 0px;
+}
+
+.pp {
+  padding: 10px;
+  height: 40px;
+  width: 40px;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.profile-pic {
+  font-size: 20px;
+}
+
+.info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.stars-image {
+  height: 10px;
+  width: 100px;
+}
+
+.website-name {
+  font-size: 15px;
+  margin: 0px;
+}
+
+.delete-button {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.delete {
+  height: 30px;
+  width: 30px;
+}
